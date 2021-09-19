@@ -28,7 +28,7 @@ Tensorflow >= 2.0
 ## Prerequisites
 1. Clone the repository
 ```
-git clone https://github.com/ShobhitDubey0729/Federated-learning-image-classification.git<br>
+git clone https://github.com/ShobhitDubey0729/Federated-learning-image-classification.git
 cd Federated-learning-image-classification/
 ```
 2. Download requirements
