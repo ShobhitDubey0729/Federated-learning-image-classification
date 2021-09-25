@@ -22,7 +22,7 @@ This Architecture is taken from https://blogs.nvidia.com/blog/2019/10/13/what-is
 
 ## Dependencies
 Python 3.7<br>
-Tensorflow >= 2.0
+Tensorflow = 2.0
 
 
 ## Prerequisites
